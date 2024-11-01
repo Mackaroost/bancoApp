@@ -56,7 +56,7 @@ Esta aplicación permite a los usuarios registrar sus datos y guardar informaci�
 
 1. Clona este repositorio.
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/mackaroots/bancoApp.git
 2. Abre index.html en tu navegador para registrar un nuevo usuario.
 3. Introduce la información requerida en el formulario y envíala. Se mostrará un mensaje de éxito si los datos son correctos, o un mensaje de error si es necesario corregir alguno.
 4. Para ver la tabla de usuarios, abre tabla.html. Aquí podrás ver todos los registros y gestionar cada uno con las opciones de editar o eliminar.  
